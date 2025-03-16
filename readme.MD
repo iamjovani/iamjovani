@@ -23,7 +23,7 @@
 
 ### 👋 About Me
 - 💻 **Software Engineer** with a passion for creating innovative solutions.
-- 🌐 Experienced in **Web Development**, **Artificial Intelligence**, and **Automation**.
+- 🌐 Experienced in **Software Development**, **Artificial Intelligence**, and **Automation**.
 - 🎓 Continuously learning and exploring new technologies to enhance my skill set.
 - 🚀 Dedicated to contributing to open-source projects and collaborating with the tech community.
 
